@@ -4,11 +4,11 @@ Perfect shadow creation for non-designers. Works well with pictures.
 
 # Installation
 
-`npm i shadowWiz --save`
+`npm i shadowwiz --save`
 
 Then...
 ```
-import { shadowWiz } from 'shadowWiz';
+import { shadowWiz } from 'shadowwiz';
 
 shadowWiz({
     shadow_type: 'soft',

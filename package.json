@@ -1,0 +1,23 @@
+{
+  "name": "shadowwiz",
+  "version": "1.0.0",
+  "description": "Add shadows for pictures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun1237/shadowWiz.git"
+  },
+  "keywords": [
+    "shadows",
+    "pictures"
+  ],
+  "author": "Arjun K Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun1237/shadowWiz/issues"
+  },
+  "homepage": "https://github.com/arjun1237/shadowWiz#readme"
+}
